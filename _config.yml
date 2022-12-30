@@ -24,7 +24,8 @@ title: 4rch                          # the main title
 tagline: cybersecurity student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  On this page we will learn to penetrate hackthebox virtual machines
+ (En esta pagina aprenderemos a pentrarar maquinas virutales de hackthebox) 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -81,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: '/fondo.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
